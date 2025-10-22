@@ -1,7 +1,9 @@
 # Bienvenidos al repositorio de [nombre del proyecto].
 Dentro de este repositorio se desarrollara el proyecto de final de cursado, nuestro grupo fue titulado _"Los tres tristes tigres"_, y no, no comemos trigal.
 
-**Integrantes:** _Fortes Nuñez, Juana Paola;_ _Vico, Naim Natanael;_ _Rodriguez, Emir Natanael._
+**Integrantes:**
+
+_Fortes Nuñez, Juana Paola._ _Vico, Naim Natanael;_ _Rodriguez, Emir Natanael._
 
 # Funciones esperadas de [nombre del proyecto].
 
