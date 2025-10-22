@@ -3,7 +3,11 @@ Dentro de este repositorio se desarrollara el proyecto de final de cursado, nues
 
 **Integrantes:**
 
-_Fortes Nuñez, Juana Paola._ _Vico, Naim Natanael;_ _Rodriguez, Emir Natanael._
+_Fortes Nuñez, Juana Paola._
+
+_Vico, Naim Natanael._
+
+_Rodriguez, Emir Natanael._
 
 # Funciones esperadas de [nombre del proyecto].
 
