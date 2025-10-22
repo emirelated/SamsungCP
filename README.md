@@ -1,5 +1,5 @@
 # Bienvenidos al repositorio de [nombre del proyecto].
-Dentro de este repositorio se desarrollara el proyecto de final de cursado, nuestro grupo fue titulado _"Los tres tristes tigres"_, y no, no comemos trigal.
+Dentro de este repositorio se desarrollara el proyecto de final de cursado, nuestro grupo fue titulado **_"Los tres tristes tigres"_**, y no, no comemos trigo en un trigal.
 
 **Integrantes:**
 
