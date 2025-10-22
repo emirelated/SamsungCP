@@ -1,0 +1,2 @@
+# SamsungCP
+Capstone Project Samsung
