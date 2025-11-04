@@ -61,7 +61,7 @@ def analizar_objeto_imagen(imagen_base64):
 
             model= "meta-llama/llama-4-scout-17b-16e-instruct",
             temperature=0.7,
-            max_tokens=750  # ???
+            max_tokens=750
         )
         return completado_chat.choices[0].message.content
     except Exception as e:
@@ -115,10 +115,10 @@ def manejar_foto(mensaje):
 
 
 
-
+## codigo para testeos
 # if __name__ == '__main__':
-#     print("🤖 Bot de descripción de imágenes iniciado...")
-#     print("📸 Esperando imágenes para describir...")
+#     print("Bot de descripción de imágenes iniciado...")
+#     print("Esperando imágenes para describir...")
 #     try:
 #         bot.polling(none_stop=True)
 #     except Exception as e:

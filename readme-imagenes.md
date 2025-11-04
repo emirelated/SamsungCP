@@ -1,0 +1,3 @@
+El analisis de imagagenes ocurre en el archivo [nombre final del archivo]. Este es capaz de convertir imagenes a formato base68 para poder enviarselas a groq, que se encrga principalmente del analisis de estas.
+Tras recibir la respuesta de groq, la envia como mensaje. Siempre va a analizar si el objeto de la foto es un celular, televisor, heladera, notebook o lavarropas, y recomendara visitar la tienda con un enlace predeterminado en un breve mensaje. Si lo de la imagen es otra cosa, simplemente la analizara y comentara en ella, aun recomendando visitar la tienda.
+El handler de mensajes se encuentra en el mismo archivo por cuestiones de organiacion.
