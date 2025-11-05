@@ -3,3 +3,6 @@ pip install telebot groq dotenv
 pip install PyTelegramBotAPI
 pip install groq
 pip install python-dotenv
+
+# Para correrlo tienen que agregar un archivo vacio que se llame .env que tenga
+# las keys de telegram bot y de grok
