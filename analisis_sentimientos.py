@@ -29,39 +29,27 @@ def carga_modelo(): # Para que cargue solo al inicio del bot (es muy pesado el m
         print(f"Error: no se cargó el modelo. Reinicie el bot.")
         ANALIZADOR = None
 
+def analisis_sentimiento():
+    if ANALIZADOR is None: # Para inicializar la carga única del modelo
+        cargar_modelo()
 
+    if ANALIZADOR is None: # Por si no se inicializó (doble verificación)
+        return "No está disponible el modelo. Reintente nuevamente :("
 
-# FUNCION DESARROLLADA EN CLASE! (a modificar y reusar para aplicarla en telegram)
+    try: # Ejecutamos el analisis
+        resultados = ANALIZADOR([texto])
+        resultado = resultados[0]
+        
+        sentimiento = resultado['label'] # Devuelve la cantidad de estrellas
+        confianza = resultado['score']
+        
+        emoji = EMOJIS.get(sentimiento, "❓")
 
-# analizador_sentimiento = pipeline(
-#     "sentiment-analysis",
-#         model="pysentimiento/robertuito-sentiment-analysis"
-# )
-# print("Cargado exitosamente ✅"
-
-
-# # Usamos el pipeline para obtener el sentimiento de cada frase
-# print("\nAnalizando frases...")
-# resultados = analizador_sentimiento(frases_para_analizar)
-
-# # Resultados
-# for frase, resultado in zip(frases_para_analizar, resultados):
-#     sentimiento = resultado['label']
-#     confianza = resultado['score']
-    
-#     # Modificamos con emojis para que quede más estetica la muestra por pantalla. 
-#     emoji = "❓"
-#     if "star" in sentimiento:
-#         if sentimiento == '5 stars':
-#             emoji = "😊" # Muy positivo
-#         elif sentimiento == '4 stars':
-#             emoji = "🙂" # Positivo
-#         elif sentimiento == '3 stars':
-#             emoji = "😐" # Neutral
-#         elif sentimiento == '2 stars':
-#             emoji = "😟" # Negativo
-#         elif sentimiento == '1 star':
-#             emoji = "😠" # Muy negativo
-
-#     print(f"\nFrase: '{frase}'")
-#     print(f"  -> Sentimiento Detectado: {sentimiento.upper()} {emoji} (Confianza: {confianza:.2%})")
+        respuesta_corregida = (
+                f"Sentimiento Detectado: {sentimiento.upper()} {emoji} "
+                f"Confianza: {confianza:.2%})" # Solo con dos decimales
+        )
+        return respuesta_formateada
+        
+    except Exception as e:
+        return f"Error durante el análisis del texto: {e}" # Mostramos el error almacenado. :)
