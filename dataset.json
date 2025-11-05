@@ -1,0 +1,164 @@
+{
+  "company_info": {
+    "name": "Samsung Project",
+    "description": "Samsung Project es una tienda dedicada a la distribución oficial de productos Samsung en Argentina, ofreciendo dispositivos móviles, televisores, tablets, wearables y accesorios originales.",
+    "website": "https://www.samsung.com/ar/",
+    "contact_support": "https://www.samsung.com/ar/support/contact/",
+    "store_locator": "https://www.samsung.com/ar/storelocator/"
+  },
+  "policies": {
+    "devoluciones": "Las devoluciones de productos adquiridos en Samsung Project pueden realizarse dentro de los 10 días corridos posteriores a la entrega, siempre y cuando el producto conserve su empaque original, accesorios, manuales y no presente daños físicos o uso. Las devoluciones no aplican a productos dañados por mal uso, manipulaciones o golpes.",
+    "cambios": "Los cambios se permiten únicamente por fallas de fábrica dentro de los 10 días desde la entrega. Si el producto presenta falla luego de ese período, se debe gestionar a través del servicio técnico oficial de Samsung Argentina.",
+    "excepciones": "Productos de uso personal como auriculares in-ear o bandas deportivas no tienen cambio si el empaque ha sido abierto.",
+    "procedimiento": "Para iniciar un cambio o devolución, se debe contactar al soporte oficial: https://www.samsung.com/ar/support/contact/"
+  },
+  "products": [
+    {
+      "name": "Samsung Galaxy S24",
+      "category": "Celular",
+      "description": "Smartphone de gama alta con pantalla AMOLED y cámara profesional.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-s24/"
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "category": "Celular",
+      "description": "Modelo premium de la línea Galaxy con S-Pen integrado y cámara avanzada.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-s24-ultra/"
+    },
+    {
+      "name": "Samsung Galaxy S23 FE",
+      "category": "Celular",
+      "description": "Versión Fan Edition con alto rendimiento y diseño compacto.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-s23-fe/"
+    },
+    {
+      "name": "Samsung Galaxy Z Fold5",
+      "category": "Celular",
+      "description": "Smartphone plegable tipo libro con doble pantalla.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-z-fold5/"
+    },
+    {
+      "name": "Samsung Galaxy Z Flip5",
+      "category": "Celular",
+      "description": "Smartphone plegable tipo concha con pantalla frontal interactiva.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-z-flip5/"
+    },
+    {
+      "name": "Samsung Galaxy A55",
+      "category": "Celular",
+      "description": "Dispositivo de gama media con diseño premium y cámara triple.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-a55/"
+    },
+    {
+      "name": "Samsung Galaxy A35",
+      "category": "Celular",
+      "description": "Celular de gama media con pantalla Super AMOLED.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-a35/"
+    },
+    {
+      "name": "Samsung Galaxy Tab S9",
+      "category": "Tablet",
+      "description": "Tablet premium con pantalla AMOLED y S-Pen incluido.",
+      "link": "https://www.samsung.com/ar/tablets/galaxy-tab-s9/"
+    },
+    {
+      "name": "Samsung Galaxy Tab A9",
+      "category": "Tablet",
+      "description": "Tablet accesible para uso familiar y educativo.",
+      "link": "https://www.samsung.com/ar/tablets/galaxy-tab-a9/"
+    },
+    {
+      "name": "Samsung Galaxy Watch 6",
+      "category": "Reloj",
+      "description": "Smartwatch con monitoreo de salud y diseño circular.",
+      "link": "https://www.samsung.com/ar/watches/galaxy-watch6/"
+    },
+    {
+      "name": "Samsung Galaxy Watch 6 Classic",
+      "category": "Reloj",
+      "description": "Versión con bisel giratorio y diseño elegante.",
+      "link": "https://www.samsung.com/ar/watches/galaxy-watch6-classic/"
+    },
+    {
+      "name": "Samsung Galaxy Buds FE",
+      "category": "Auriculares",
+      "description": "Auriculares inalámbricos con cancelación activa de ruido.",
+      "link": "https://www.samsung.com/ar/audio-sound/galaxy-buds-fe/"
+    },
+    {
+      "name": "Samsung QLED 4K Q80C",
+      "category": "TV",
+      "description": "Televisor QLED 4K con retroiluminación directa y HDR.",
+      "link": "https://www.samsung.com/ar/tvs/qled-q80c/"
+    },
+    {
+      "name": "Samsung OLED S90C",
+      "category": "TV",
+      "description": "Televisor OLED con negros perfectos y procesador Neural 4K.",
+      "link": "https://www.samsung.com/ar/tvs/oled-s90c/"
+    },
+    {
+      "name": "Samsung Crystal UHD CU8000",
+      "category": "TV",
+      "description": "Smart TV 4K con procesador Crystal UHD.",
+      "link": "https://www.samsung.com/ar/tvs/crystal-uhd-cu8000/"
+    },
+    {
+      "name": "Samsung The Frame 2023",
+      "category": "TV",
+      "description": "Televisor que simula un cuadro decorativo cuando no está en uso.",
+      "link": "https://www.samsung.com/ar/tvs/the-frame/"
+    },
+    {
+      "name": "Samsung Smart Monitor M8",
+      "category": "Monitor",
+      "description": "Monitor inteligente con apps integradas y control remoto.",
+      "link": "https://www.samsung.com/ar/monitors/smartmonitor-m8/"
+    },
+    {
+      "name": "Samsung M5 Smart Monitor",
+      "category": "Monitor",
+      "description": "Monitor inteligente 1080p con AirPlay y apps integradas.",
+      "link": "https://www.samsung.com/ar/monitors/smart-monitor-m5/"
+    },
+    {
+      "name": "Samsung Jet Bot AI+",
+      "category": "Electrodoméstico",
+      "description": "Aspiradora robot con IA y base autovaciado.",
+      "link": "https://www.samsung.com/ar/vacuum-cleaners/robot/"
+    },
+    {
+      "name": "Samsung Bespoke Fridge",
+      "category": "Electrodoméstico",
+      "description": "Heladera modular personalizable de la línea Bespoke.",
+      "link": "https://www.samsung.com/ar/refrigerators/bespoke/"
+    }
+  ],
+  "faq": [
+    "¿Cómo solicito un cambio de producto?",
+    "¿Cuántos días tengo para devolver una compra?",
+    "¿Dónde veo el catálogo completo de celulares?",
+    "¿Samsung Project vende productos originales?",
+    "¿Tienen tienda física o solo online?",
+    "¿Puedo comprar televisores Samsung desde su web?",
+    "¿Tienen tablets disponibles actualmente?",
+    "¿Cómo contacto al soporte oficial de Samsung?",
+    "¿Dónde puedo ver los relojes Samsung que venden?",
+    "¿Tienen monitores Samsung?",
+    "¿Cómo saber si un producto es original?",
+    "¿Dónde encuentro información del Galaxy S24?",
+    "¿Venden el Galaxy Z Fold?",
+    "¿Dónde encuentro los auriculares Galaxy Buds?",
+    "¿Qué productos pertenecen a la línea Bespoke?",
+    "¿Puedo devolver un producto abierto?",
+    "¿Puedo cambiar un producto si no me gustó?",
+    "¿Qué modelos de TV tienen disponibles?",
+    "¿Venden Smartwatches Samsung?",
+    "¿Dónde veo las tablets compatibles con S-Pen?",
+    "¿Qué pasa si me llegó un producto dañado?",
+    "¿Cómo verifico stock de un producto?",
+    "¿Dónde veo el catálogo completo de Samsung Argentina?",
+    "¿Samsung Project vende electrodomésticos?",
+    "¿Dónde encuentro la sección de soporte?"
+  ]
+}

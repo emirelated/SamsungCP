@@ -1,0 +1,5 @@
+# python -m ven entornovoz
+pip install telebot groq dotenv
+pip install PyTelegramBotAPI
+pip install groq
+pip install python-dotenv
