@@ -1,5 +1,5 @@
 # Bienvenidos al repositorio de Samsung Project.
-Dentro de este repositorio se desarrollara el proyecto de final de cursado, nuestro grupo fue titulado **_"Los tres tristes tigres"_**, y no, no comemos trigo en un trigal.
+Dentro de este repositorio se desarrollara el proyecto de final de cursado, nuestro grupo fue titulado **_"Los tres tristes tigres"_**, y no, no comemos trigo en un trigal. Nuestro objetivo es construir un Asistente Conversacional Inteligente (ACI) diseñado para la marca Samsung, capaz de ofrecer una experiencia de soporte y consulta multimodal y empática.
 
 **Integrantes:**
 
