@@ -24,4 +24,4 @@ Recepción y procesamiento de notas de voz. Habilita la interacción a través d
 
 
 **Función 4.**
-Recepción e interpretación de imagenes. 
+Recepción e interpretación de imagenes. El modelo identifica el producto y genera una descripción breve y relevante, adhiriéndose a las restricciones del System Prompt (enfoque en Samsung y sugerencia de enlace).
