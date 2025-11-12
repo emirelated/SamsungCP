@@ -1,0 +1,5 @@
+python-dotenv
+pytelegrambotapi
+groq
+transformers
+torch
