@@ -110,8 +110,9 @@ El asistente está configurado con reglas estrictas:
 2. No inventa ni añade información externa
 3. Sugiere contacto oficial si la información no está disponible
 4. Respuestas empáticas que reconocen el estado emocional del cliente
-5. Sin emojis, profesional y resolutivo
+5. Utiliza un lenguaje profesional y resolutivo
 6. No comparte datos sensibles del personal
+7. Puede utilizar hasta 3 emojis por mensaje
 
 ## 📈 Modelo de Sentimiento
 
