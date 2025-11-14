@@ -357,7 +357,7 @@ if __name__ == "__main__":
             except Exception as e:
                 print(f"Error, no se pudo procesar porque {str(e)}")
                 print("Reiniciando el bot")
-                time.sleep(5)
+                time.sleep(1)
 
     else:
         print("No se pudo iniciar desde la raíz...")
