@@ -9,7 +9,7 @@ _Vico, Naim Natanael._
 
 _Rodriguez, Emir Natanael._
 
-# Funciones esperadas del bot. 
+# Funciones esperadas del asistente
 
 **Función 1.**
 Analisis de Sentimiento. Asegura que el asistente no solo sea resolutivo sino también empático. Permite al System Prompt reconocer la frustración o el agrado del cliente para modular el inicio de la respuesta con un tono humano y adecuado, mejorando la experiencia del usuario.
