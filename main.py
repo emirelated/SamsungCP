@@ -130,7 +130,7 @@ def get_groq_response(user_message: str):
                 f"""considerando este producto," "Lamento el inconveniente que """
                 f"""esto le ha causado," o "Gracias por la claridad en su consulta."
             7. Solo saluda en la primera interacción.
-            8. No utilices emojis en tus respuestas.
+            8. Puedes utilizar emojis en tus respuestas, un máximo de 3.
             9. No incluyas saludos si la conversación ya fue iniciada.
             10. Siempre responde evitando la redundancia y repetición de información.
             11. Nunca envies links inactivos, en caso de que se soliciten productos """
