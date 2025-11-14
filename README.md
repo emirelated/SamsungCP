@@ -1,4 +1,4 @@
-# Bienvenidos al repositorio de Samsung Project.
+# Bienvenidos al repositorio de Capstone Proyect. 
 Dentro de este repositorio se desarrollara el proyecto de final de cursado, nuestro grupo fue titulado **_"Los tres tristes tigres"_**, y no, no comemos trigo en un trigal. Nuestro objetivo es construir un Asistente Conversacional Inteligente (ACI) diseñado para la marca Samsung, capaz de ofrecer una experiencia de soporte y consulta multimodal y empática.
 
 **Integrantes:**
@@ -9,7 +9,7 @@ _Vico, Naim Natanael._
 
 _Rodriguez, Emir Natanael._
 
-# Funciones esperadas de Samsung Project.
+# Funciones esperadas del bot. 
 
 **Función 1.**
 Analisis de Sentimiento. Asegura que el asistente no solo sea resolutivo sino también empático. Permite al System Prompt reconocer la frustración o el agrado del cliente para modular el inicio de la respuesta con un tono humano y adecuado, mejorando la experiencia del usuario.
@@ -26,12 +26,12 @@ Recepción y procesamiento de notas de voz. Habilita la interacción a través d
 **Función 4.**
 Recepción e interpretación de imagenes. El modelo identifica el producto y genera una descripción breve y relevante, adhiriéndose a las restricciones del System Prompt (enfoque en Samsung y sugerencia de enlace).
 
-# Samsung Project - Asistente Conversacional Inteligente (ACI)
+# Capstone Project - Asistente Conversacional Inteligente (ACI)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram-Bot%20API-blue.svg)](https://core.telegram.org/bots/api)
 
-## 📋 Descripción
+## 📋 Descripción del proyecto 
 
 Asistente Conversacional Inteligente (ACI) diseñado para Samsung, capaz de ofrecer una experiencia de soporte y consulta **multimodal y empática**. El bot procesa mensajes de texto, notas de voz e imágenes, proporcionando respuestas contextualizadas basadas en un dataset empresarial y análisis de sentimiento en tiempo real.
 
@@ -102,7 +102,7 @@ El bot cargará automáticamente:
 - **Nota de voz** - Transcripción automática + respuesta contextualizada
 - **Imagen** - Análisis visual de productos + recomendaciones
 
-## 🎯 System Prompt - Lineamientos de Respuesta
+## 🎯 System Prompt - Lineamientos de Respuesta para el asistente
 
 El asistente está configurado con reglas estrictas:
 
@@ -114,7 +114,7 @@ El asistente está configurado con reglas estrictas:
 6. No comparte datos sensibles del personal
 7. Puede utilizar hasta 3 emojis por mensaje
 
-## 📈 Modelo de Sentimiento
+## 📈 Modelo de Análisis de Sentimiento
 
 **Modelo:** `pysentimiento/robertuito-sentiment-analysis`
 
@@ -125,7 +125,7 @@ Clasifica mensajes en 5 categorías con emojis representativos:
 - ⭐⭐ (2 stars) - 😟
 - ⭐ (1 star) - 😠
 
-## 🔧 Configuración Avanzada
+## 🔧 Configuración Avanzada para el modelo
 
 ### Ajustar temperatura del modelo
 
@@ -170,10 +170,11 @@ pip install --upgrade transformers torch
 ### Transcripción de voz falla
 - Verificar API Key de Groq
 - Comprobar formato del audio (el bot convierte automáticamente a .ogg)
+- Hablar claro
 
 ## 🤝 Contribuciones
 
-Este es un proyecto académico de fin de cursado. Las contribuciones, sugerencias y reportes de bugs son bienvenidos a través de issues o pull requests.
+Este es un proyecto académico de fin de cursado. Las contribuciones, sugerencias y reportes de bugs son bienvenidos a través de issues o pull requests. 
 
 ## 📧 Contacto
 
