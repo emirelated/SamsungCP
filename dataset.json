@@ -1,13 +1,13 @@
 {
   "company_info": {
-    "name": "Samsung Project",
-    "description": "Samsung Project es una tienda dedicada a la distribución oficial de productos Samsung en Argentina, ofreciendo dispositivos móviles, televisores, tablets, wearables y accesorios originales.",
+    "name": "ACI - Asistente Conversacional Inteligente",
+    "description": "Samsung AR es una tienda dedicada a la distribución oficial de productos Samsung en Argentina, ofreciendo dispositivos móviles, televisores, tablets, wearables y accesorios originales.",
     "website": "https://www.samsung.com/ar/",
     "contact_support": "https://www.samsung.com/ar/support/contact/",
     "store_locator": "https://www.samsung.com/ar/storelocator/"
   },
   "policies": {
-    "devoluciones": "Las devoluciones de productos adquiridos en Samsung Project pueden realizarse dentro de los 10 días corridos posteriores a la entrega, siempre y cuando el producto conserve su empaque original, accesorios, manuales y no presente daños físicos o uso. Las devoluciones no aplican a productos dañados por mal uso, manipulaciones o golpes.",
+    "devoluciones": "Las devoluciones de productos adquiridos en Samsung AR pueden realizarse dentro de los 10 días corridos posteriores a la entrega, siempre y cuando el producto conserve su empaque original, accesorios, manuales y no presente daños físicos o uso. Las devoluciones no aplican a productos dañados por mal uso, manipulaciones o golpes.",
     "cambios": "Los cambios se permiten únicamente por fallas de fábrica dentro de los 10 días desde la entrega. Si el producto presenta falla luego de ese período, se debe gestionar a través del servicio técnico oficial de Samsung Argentina.",
     "excepciones": "Productos de uso personal como auriculares in-ear o bandas deportivas no tienen cambio si el empaque ha sido abierto.",
     "procedimiento": "Para iniciar un cambio o devolución, se debe contactar al soporte oficial: https://www.samsung.com/ar/support/contact/"
