@@ -50,7 +50,8 @@ Asistente Conversacional Inteligente (ACI) diseñado para Samsung, capaz de ofre
 - Python 3.8 o superior
 - Cuenta de Telegram y Bot Token ([Crear bot con @BotFather](https://t.me/botfather))
 - API Key de Groq ([Obtener en groq.com](https://console.groq.com/))
-
+- Seleccionar solo una versión entre la **Modularizada** o la **integral**
+  
 ### Pasos de Instalación
 
 1. **Clonar el repositorio**
