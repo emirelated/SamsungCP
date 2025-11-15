@@ -1,0 +1,234 @@
+{
+  "company_info": {
+    "name": "Asistente Conversacional Inteligente de Samsung",
+    "description": "Samsung AR es una tienda dedicada a la distribución oficial de productos Samsung en Argentina, ofreciendo dispositivos móviles, televisores, tablets, wearables y accesorios originales.",
+    "website": "https://www.samsung.com/ar/",
+    "contact_support": "https://www.samsung.com/ar/support/contact/",
+    "store_locator": "https://www.samsung.com/ar/storelocator/"
+  },
+  "policies": {
+    "devoluciones": "Las devoluciones de productos adquiridos en Samsung AR pueden realizarse dentro de los 10 días corridos posteriores a la entrega, siempre y cuando el producto conserve su empaque original, accesorios, manuales y no presente daños físicos o uso. Las devoluciones no aplican a productos dañados por mal uso, manipulaciones o golpes.",
+    "cambios": "Los cambios se permiten únicamente por fallas de fábrica dentro de los 10 días desde la entrega. Si el producto presenta falla luego de ese período, se debe gestionar a través del servicio técnico oficial de Samsung Argentina.",
+    "excepciones": "Productos de uso personal como auriculares in-ear o bandas deportivas no tienen cambio si el empaque ha sido abierto.",
+    "procedimiento": "Para iniciar un cambio o devolución, se debe contactar al soporte oficial: https://www.samsung.com/ar/support/contact/"
+  },
+  "products": [
+    {
+      "name": "Samsung Galaxy S25 Ultra",
+      "category": "Celular",
+      "description": "Smartphone de gama ultra-alta, máxima innovación en cámara (200MP) y rendimiento con el procesador más avanzado de la serie S.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-s/galaxy-s25-ultra/"
+    },
+    {
+      "name": "Samsung Galaxy Z Fold7",
+      "category": "Celular Plegable",
+      "description": "El smartphone que se transforma en tablet. Máxima productividad con pantalla plegable Dynamic AMOLED 2X.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-z/galaxy-z-fold7/"
+    },
+    {
+      "name": "Samsung Galaxy Z Flip6",
+      "category": "Celular Plegable",
+      "description": "Diseño compacto y elegante con pantalla flexible. Ideal para capturar selfies sin manos.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-z/galaxy-z-flip6/"
+    },
+    {
+      "name": "Samsung Galaxy S24 FE",
+      "category": "Celular",
+      "description": "Edición especial con las características favoritas de los fans de la serie S a un precio más accesible.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-s/galaxy-s24-fe/"
+    },
+    {
+      "name": "Samsung Galaxy A56 5G",
+      "category": "Celular",
+      "description": "Gama media-alta con conectividad 5G, cámara OIS de alta resolución y batería de larga duración.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-a/galaxy-a56/"
+    },
+    {
+      "name": "Samsung Galaxy A15",
+      "category": "Celular",
+      "description": "Smartphone de entrada, con gran pantalla AMOLED y triple cámara trasera a un precio competitivo.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-a/galaxy-a15/"
+    },
+    {
+      "name": "Samsung Galaxy M55",
+      "category": "Celular",
+      "description": "Modelo enfocado en batería masiva y pantalla Super AMOLED Plus para entretenimiento ininterrumpido.",
+      "link": "https://www.samsung.com/ar/smartphones/galaxy-m/galaxy-m55/"
+    },
+    {
+      "name": "Samsung Galaxy Tab S10 Ultra",
+      "category": "Tablet",
+      "description": "Tablet de rendimiento profesional con pantalla Dynamic AMOLED 2X de 14.6 pulgadas y S Pen incluido.",
+      "link": "https://www.samsung.com/ar/tablets/galaxy-tab-s/galaxy-tab-s10-ultra/"
+    },
+    {
+      "name": "Samsung Galaxy Tab S9 FE+",
+      "category": "Tablet",
+      "description": "Edición Fan Edition con resistencia IP68, ideal para estudiantes y creativos, incluye S Pen.",
+      "link": "https://www.samsung.com/ar/tablets/galaxy-tab-s/galaxy-tab-s9-fe-plus/"
+    },
+    {
+      "name": "Samsung Galaxy Tab A9+",
+      "category": "Tablet",
+      "description": "Tablet de entretenimiento con pantalla grande de 11 pulgadas y cuatro parlantes con sonido envolvente.",
+      "link": "https://www.samsung.com/ar/tablets/galaxy-tab-a/galaxy-tab-a9-plus/"
+    },
+    {
+      "name": "Samsung Galaxy Watch Ultra",
+      "category": "Wearable",
+      "description": "Reloj inteligente de máxima resistencia para deportes extremos y batería de larga duración.",
+      "link": "https://www.samsung.com/ar/watches/galaxy-watch/galaxy-watch-ultra/"
+    },
+    {
+      "name": "Samsung Galaxy Watch 8 Classic",
+      "category": "Wearable",
+      "description": "Smartwatch con bisel giratorio físico y las funciones de salud más avanzadas de Samsung.",
+      "link": "https://www.samsung.com/ar/watches/galaxy-watch/galaxy-watch-8-classic/"
+    },
+    {
+      "name": "Samsung Galaxy Fit 3",
+      "category": "Wearable",
+      "description": "Pulsera de actividad física con monitoreo de sueño, ritmo cardíaco y batería de hasta 13 días.",
+      "link": "https://www.samsung.com/ar/watches/galaxy-fit/galaxy-fit3/"
+    },
+    {
+      "name": "Samsung Galaxy Buds3 Pro",
+      "category": "Audio",
+      "description": "Auriculares inalámbricos con cancelación de ruido (ANC) inteligente, audio Hi-Fi y ajuste ergonómico.",
+      "link": "https://www.samsung.com/ar/audio-sound/galaxy-buds/galaxy-buds3-pro/"
+    },
+    {
+      "name": "Samsung Galaxy Buds FE",
+      "category": "Audio",
+      "description": "Audífonos Fan Edition con ANC y diseño ergonómico de aleta para un ajuste seguro y cómodo.",
+      "link": "https://www.samsung.com/ar/audio-sound/galaxy-buds/galaxy-buds-fe/"
+    },
+    {
+      "name": "Samsung Neo QLED 8K QN900D (2024)",
+      "category": "Televisor",
+      "description": "TV 8K con Inteligencia Artificial y tecnología Quantum Matrix Technology Pro, máximo contraste y brillo.",
+      "link": "https://www.samsung.com/ar/tvs/qled-tv/qn900d-8k-neo-qled/"
+    },
+    {
+      "name": "Samsung OLED 4K S95F (2025)",
+      "category": "Televisor",
+      "description": "TV OLED 4K (QD-OLED) con tecnología Glare Free, que reduce los reflejos, ideal para colores negros puros.",
+      "link": "https://www.samsung.com/ar/tvs/oled-tv/s95f-4k-oled/"
+    },
+    {
+      "name": "Samsung The Frame Serie D 65\"",
+      "category": "Televisor Lifestyle",
+      "description": "Televisor QLED 4K que se convierte en una obra de arte cuando está apagado, con marco personalizable.",
+      "link": "https://www.samsung.com/ar/lifestyle-tvs/the-frame/ls03d-65-inch-black/"
+    },
+    {
+      "name": "Samsung The Freestyle 2nd Gen",
+      "category": "Proyector Portátil",
+      "description": "Proyector Smart portátil con auto-enfoque y corrección automática de imagen, proyecta hasta 100 pulgadas.",
+      "link": "https://www.samsung.com/ar/projectors/the-freestyle/lff3c-the-freestyle-2nd-gen/"
+    },
+    {
+      "name": "Soundbar Q-Series HW-Q990D",
+      "category": "Audio",
+      "description": "Barra de sonido 11.1.4 canales con Dolby Atmos inalámbrico y tecnología Q-Symphony.",
+      "link": "https://www.samsung.com/ar/audio-sound/soundbars/hw-q990d-q-series/"
+    },
+    {
+      "name": "Heladera Bespoke Side By Side 626L",
+      "category": "Electrodoméstico",
+      "description": "Heladera modular Side-by-Side con diseño personalizable y dispensador de bebidas y agua filtrada.",
+      "link": "https://www.samsung.com/ar/refrigerators/bespoke/rs23cb70na7pbg/"
+    },
+    {
+      "name": "Heladera Bespoke Freezer Inferior 328L (RB33A3070)",
+      "category": "Electrodoméstico",
+      "description": "Heladera No Frost con tecnología SpaceMax y freezer inferior, con paneles frontales intercambiables.",
+      "link": "https://www.samsung.com/ar/refrigerators/one-door/rr7000m-315l-white/"
+    },
+    {
+      "name": "Heladera No Frost Twin Cooling Plus™ 382L (RT38K)",
+      "category": "Electrodoméstico",
+      "description": "Heladera con tecnología Twin Cooling Plus que mantiene los alimentos frescos por más tiempo.",
+      "link": "https://www.samsung.com/ar/refrigerators/top-mount-freezer/rt38k5932sl/"
+    },
+    {
+      "name": "Lavarropas Bespoke AI 10.5kg (AI Ecobubble)",
+      "category": "Electrodoméstico",
+      "description": "Lavarropas de carga frontal con IA, dosificador automático y tecnología Ecobubble para un lavado eficiente.",
+      "link": "https://www.samsung.com/ar/washers-and-dryers/washing-machines/ww10cb944dgmbg/"
+    },
+    {
+      "name": "Lavasecarropas AI Ecobubble 9.5kg / 6kg",
+      "category": "Electrodoméstico",
+      "description": "Dispositivo 2 en 1 que lava y seca, con motor Digital Inverter y control por Inteligencia Artificial (AI Control).",
+      "link": "https://www.samsung.com/ar/washers-and-dryers/combo-washer-dryer/wd95a4453bxubg/"
+    },
+    {
+      "name": "Aire Acondicionado Split Inverter Frío/Calor 5031Fg (AR24BSH)",
+      "category": "Electrodoméstico",
+      "description": "Aire acondicionado con tecnología Digital Inverter para máximo ahorro de energía y enfriamiento rápido.",
+      "link": "https://www.samsung.com/ar/air-conditioners/split/ar24bshqawk2bg/"
+    },
+    {
+      "name": "Samsung Galaxy Book4 (15.6\", i7)",
+      "category": "Computación",
+      "description": "Notebook ultradelgada con procesador Intel Core i7 de última generación, pantalla de 15.6 pulgadas y gran conectividad.",
+      "link": "https://www.samsung.com/ar/computers/galaxy-book/galaxy-book4-15-6-inch-i7/"
+    },
+    {
+      "name": "Samsung Galaxy Book3 Pro 360",
+      "category": "Computación",
+      "description": "Notebook convertible 2-en-1 (laptop y tablet) con pantalla táctil Super AMOLED de 16 pulgadas y S Pen.",
+      "link": "https://www.samsung.com/ar/computers/galaxy-book/galaxy-book3-pro-360/"
+    },
+    {
+      "name": "Monitor Gaming Odyssey G9 49\"",
+      "category": "Monitores",
+      "description": "Monitor curvo ultrawide de 49 pulgadas, tasa de refresco de 240Hz y tiempo de respuesta de 1ms, ideal para eSports.",
+      "link": "https://www.samsung.com/ar/monitors/gaming/odyssey-g9/"
+    },
+    {
+      "name": "Monitor Smart M8 32\"",
+      "category": "Monitores",
+      "description": "Monitor con funciones de Smart TV, ideal para trabajar y ver contenido sin necesidad de PC. Incluye cámara SlimFit.",
+      "link": "https://www.samsung.com/ar/monitors/smart/smart-m8-ls32bm801uexzb/"
+    },
+    {
+      "name": "Aspiradora Robot Samsung Jet Bot AI+",
+      "category": "Electrodoméstico",
+      "description": "Aspiradora robot con Inteligencia Artificial, que reconoce objetos y optimiza la ruta de limpieza.",
+      "link": "https://www.samsung.com/ar/vacuum-cleaners/robot/jet-bot-ai-plus/"
+    }
+  ],
+  "faq": [
+    "¿Cómo solicito un cambio de producto por talle o color?",
+    "¿Cuántos días tengo para devolver una compra online sin costo?",
+    "¿Dónde encuentro el catálogo completo de celulares de la serie Galaxy S y A?",
+    "¿Samsung Project vende productos originales y con garantía oficial?",
+    "¿Tienen tiendas físicas en Argentina o la venta es solo online?",
+    "¿Puedo comprar televisores Neo QLED u OLED directamente desde su web?",
+    "¿Tienen tablets disponibles que sean compatibles con el lápiz S-Pen?",
+    "¿Cómo puedo contactar al soporte técnico oficial de Samsung Argentina?",
+    "¿Dónde puedo ver los modelos de smartwatches, como el Galaxy Watch Ultra?",
+    "¿Tienen monitores curvos o Smart TV Monitores disponibles?",
+    "¿Cómo puedo verificar la autenticidad o si un producto es original?",
+    "¿Dónde encuentro información detallada y precios del Galaxy S25 Ultra?",
+    "¿Venden el Galaxy Z Fold7 y el Galaxy Z Flip6?",
+    "¿Dónde encuentro los auriculares inalámbricos Galaxy Buds3 Pro o Galaxy Buds FE?",
+    "¿Qué electrodomésticos pertenecen a la línea Bespoke y son personalizables?",
+    "¿El producto puede ser devuelto si el empaque ha sido abierto?",
+    "¿Qué modelos de TV de la línea Lifestyle, como The Frame, tienen disponibles?",
+    "¿Venden Smartwatches Samsung de gama media, como el Galaxy Fit 3?",
+    "¿Dónde veo las tablets más económicas compatibles con S-Pen?",
+    "¿Qué hago si mi producto llegó con un daño estético o de funcionamiento?",
+    "¿Cómo verifico el stock de un producto específico en la tienda online?",
+    "¿Dónde veo el catálogo completo de Samsung Argentina, incluyendo heladeras y lavarropas?",
+    "¿Samsung Project vende electrodomésticos con tecnología AI Ecobubble?",
+    "¿El Proyector The Freestyle 2nd Gen es portátil y se puede usar sin cable?",
+    "¿Tienen notebooks de la serie Galaxy Book4 en stock?",
+    "¿Cuáles son las políticas de garantía para los televisores 8K?",
+    "¿Puedo financiar mis compras en cuotas sin interés en el sitio?",
+    "¿Cómo funciona la tecnología SpaceMax en las heladeras Bespoke?",
+    "¿Qué modelos de barras de sonido con Dolby Atmos recomiendan?"
+  ]
+}
