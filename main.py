@@ -135,7 +135,10 @@ def get_groq_response(user_message: str):
             10. Siempre responde evitando la redundancia y repetición de información.
             11. Nunca envies links inactivos, en caso de que se soliciten productos """
             f"""o categorias de productos, debes proporcionar la lista completa de """
-            f"""páginas que figura en el dataset."""
+            f"""páginas que figura en el dataset.
+            12. Utiliza correctamente el punto y seguido.
+            13. Utiliza correctamente el punto y aparte.
+            14. No brindes enlaces especificos a un producto, solo envía enlaces a la categoria del producto por ejemplo https://www.samsung.com/ar/smartphones/."""
         )
 
         chat_completion = grok_cliente.chat.completions.create(
