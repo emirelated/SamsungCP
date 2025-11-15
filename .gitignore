@@ -1,0 +1,186 @@
+# ====================================
+# Samsung Project - .gitignore
+# ====================================
+
+# ==================== CRÍTICO ====================
+# Variables de entorno y credenciales
+.env
+.env.local
+.env.*.local
+*.key
+secrets.json
+
+
+# ==================== Python ====================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# ==================== IDEs ====================
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ==================== OS ====================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ==================== Telegram Bot ====================
+# Archivos temporales de audio
+temp_voice.ogg
+temp_*.ogg
+*.ogg
+
+# Archivos temporales de imágenes
+temp_image.*
+temp_*.jpg
+temp_*.png
+
+# Logs del bot
+bot_logs/
+*.log
+logs/
+
+# ==================== Machine Learning ====================
+# Modelos descargados (Transformers cache)
+.cache/
+transformers_cache/
+torch_cache/
+
+# Checkpoints y modelos entrenados
+checkpoints/
+models/
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# ==================== Datos ====================
+# Backups
+*.bak
+*.backup
+backup/
+
+# Archivos temporales
+*.tmp
+*.temp
+temp/
+
+# *.csv
+# *.json
+# *.xlsx
+
+# ==================== Otros ====================
+# Archivos comprimidos
+*.zip
+*.tar.gz
+*.rar
+
+# Documentación generada
+docs/_build/
+site/
